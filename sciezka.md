@@ -23,8 +23,8 @@ Jestem studentką informatyki na PJATK w Gdańsku. Póki co przede wszytstkim in
 
 
 ## Kursy
-- TryHackMe Pre Security
-- TryHackMe Cyber 101 (80% zrobione)
+1. TryHackMe Pre Security
+2. TryHackMe Cyber 101 (80% zrobione)
 
 
 ## Cele na studiach
