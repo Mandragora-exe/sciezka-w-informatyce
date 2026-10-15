@@ -18,10 +18,17 @@ Jestem studentką informatyki na PJATK w Gdańsku. Póki co przede wszytstkim in
 
 
 ## Uczę się
+- C#
+- Bardziej zaawansowane korzystanie z GitHub
 
 
 ## Kursy
-
+- TryHackMe Pre Security
+- TryHackMe Cyber 101 (80% zrobione)
 
 
 ## Cele na studiach
+- Pogłębiać moją wiedzę w zakresie cyberbezpieczeństwa i informatyki
+
+
+
